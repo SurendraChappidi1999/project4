@@ -2,3 +2,4 @@ this is kumar
 fggshjgdfjghdgf
 changed branching
 check poll scm    //This POLL SCM after commit the code then ,after 1min(Crontab) run in jenkins 
+Checking Build periodically // This Build is continuosly run the code as you mentioned time in crontab(1 min)
