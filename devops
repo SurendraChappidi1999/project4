@@ -1,4 +1,4 @@
 this is kumar
 fggshjgdfjghdgf
 changed branching
-check poll scm
+check poll scm    //This POLL SCM after commit the code then ,after 1min(Crontab) run in jenkins 
